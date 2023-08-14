@@ -30,4 +30,8 @@
   ## test
   The application was tested using jest testing for the render method and the browser to display the SVG image.
 
-[Demo]()
+[Demo](https://drive.google.com/file/d/1vSCbh0EBh75pB8OjT0TQxOW6I9GaIyty/view)
+
+[Github Repo](https://github.com/mmanhx90/logo-creator-hw-10)
+
+[Github](https://github.com/mmanhx90)
